@@ -154,6 +154,12 @@
       "review_by": "2026-08-27"
     },
     {
+      "path": "execution-plans/active/frontend-build-blockers-fix-2026-08-30.md",
+      "status": "active",
+      "summary": "修复 www/v4-console 构建阻断、shared 与 www 缺失依赖声明、CI npm→pnpm 与 prettier 格式问题。",
+      "review_by": "2026-09-06"
+    },
+    {
       "path": "execution-plans/completed/admin-impersonation-reliability-fix-2026-08-01.md",
       "status": "completed",
       "summary": "管理端代登录弹窗可靠性、消息交接与 E2E 契约修复。",

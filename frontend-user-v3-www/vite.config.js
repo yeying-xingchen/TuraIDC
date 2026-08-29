@@ -183,7 +183,7 @@ export default defineConfig(({ mode }) => {
         '@': path.resolve(__dirname, 'src'),
         '@shared': path.resolve(__dirname, '../shared'),
         '@turaidc/shared': path.resolve(__dirname, '../shared'),
-        'element-plus': path.resolve(__dirname, '../node_modules/element-plus'),
+        'element-plus': path.resolve(__dirname, 'node_modules/element-plus'),
       },
     },
     server: {
